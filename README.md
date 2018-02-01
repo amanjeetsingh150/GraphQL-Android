@@ -5,8 +5,7 @@ The project has to applications:
 <LI>Second is GraphQL which uses retrofit by just posting up raw queries with appropriate headers on the URL and getting results.</LI>
 </UL>
 <br>
-The first method is most recommended because it auto generates the code for models according to your queries. The advantage is that it decouples the graphql queries from the code which makes easier to code.
-<br>
+The first method is most recommended because it auto generates the code for models according to your queries. The advantage is that it decouples the graphql queries from the code which makes easier to code.<br><br>
 <b>Medium: </b>https://medium.com/@droid_singh/what-is-graphql-and-using-it-on-android-ab8e493abdd7 <br><br>
 <b>Query used</b><br>
 <pre>
